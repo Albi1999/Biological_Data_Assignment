@@ -84,7 +84,7 @@ The project aims to:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Biological_Data_Assignment.git
+   git clone https://github.com/Albi1999/Biological_Data_Assignment.git
    ```
 2. Open the main analysis notebook in Google Colab:
    - Navigate to [Google Colab](https://colab.research.google.com/).
